@@ -1,0 +1,27 @@
+.buttons {
+    border: none;
+    border-radius: 10px;
+    margin: 10px;
+    background-color: white;
+    cursor: pointer;
+    color: #b33723
+}
+
+.buttons:hover, .buttons:active, .buttons:focus {
+    color: #fff;
+    background-color: #fe4d32;
+  }
+
+  .btn12 {
+    border: none;
+    margin: 3px;
+    border-radius: 10px;
+    cursor: pointer;
+    background-color: white;
+    color: #b33723
+}
+
+.btn12:hover, .btn12:active, .btn12:focus {
+    color: #fff;
+    background-color: #fe4d32
+  }

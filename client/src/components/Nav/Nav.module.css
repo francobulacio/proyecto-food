@@ -1,0 +1,29 @@
+.navBar {
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    background-color: #040404ba;
+    border: solid rgba(172, 190, 224, 0);
+}
+.btn {
+    padding: 10px 20px;
+    color: white;
+    background-color:#00000000;
+    border: none;
+    cursor: pointer;
+    margin: 5px;
+    font-size: 1rem;
+
+}
+.btn:hover, .btn:active, .btn:focus {
+    color: #fff;
+    background-color: #fe4d32;
+  }
+  
+.pifood{
+    color: #fff;
+    font-size: 0.8rem;
+    margin-top: 17px;
+    margin-right: 40rem;
+    font-family: Verdana, Geneva, sans-serif;
+}

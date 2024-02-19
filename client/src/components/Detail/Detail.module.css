@@ -1,0 +1,54 @@
+.enc {
+    background-image: url('../../images/fondodetalle.jpg');
+    /* background-size: contain; */
+    background-repeat: repeat-y;
+    display: inline-block;
+    width: 700px;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    padding-top: 90px;
+    /* padding-left: 10px; */
+    padding-right: 30px;
+    color: rgb(255, 255, 255);
+    font-family: Verdana, Geneva, sans-serif;
+    font-size: large;
+}
+
+.btn1 {
+    height: 30px;
+    width: 100px;
+    border-radius: 10px;
+    margin-left: 10px;
+    margin-bottom: 5px;
+    background-color: #fe4d32;
+    color: rgb(255, 255, 255);
+    cursor: pointer;
+}
+
+.btn1:hover {
+    background-color: rgb(255, 255, 255);
+    color: #fe4d32;
+    height: 30px;
+    transition: 0.2s;
+}
+
+.summary {
+    max-width: 600px;
+    margin: auto;
+}
+
+.steps {
+    text-align: left;
+    padding-left: 20px;
+}
+
+.imgdetail {
+    background-color:#fe4d32;
+    padding:10px 10px 10px 10px;
+    border:1px solid #000000;
+    box-shadow:10px 10px 30px rgba(0, 0, 0, 0.4);
+    /* transform:rotate(-10deg); */
+    max-width: 400px;
+    margin-top: 30px;
+    margin-bottom: 20px;
+}
